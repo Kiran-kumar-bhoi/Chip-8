@@ -18,6 +18,7 @@ Plaintext
 
 🛠️ Prerequisites
 
+
 To compile and run this emulator, you will need:
 
     A C compiler (like gcc or clang)
