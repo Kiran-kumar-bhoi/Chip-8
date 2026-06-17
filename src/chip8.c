@@ -7,7 +7,7 @@
 #include <string.h>
 #include <sys/types.h>
 #include <time.h>
-#include "chip8.h"
+#include "../headers/chip8.h"
 
 uint8_t randByte(){
 
